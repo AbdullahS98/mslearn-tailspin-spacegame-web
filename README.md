@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/AbdullahSlimani/Test-project/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main&jobName=Job)](https://dev.azure.com/AbdullahSlimani/Test-project/_build/latest?definitionId=1&branchName=main)
+[![Build Status](https://dev.azure.com/AbdullahSlimani/Test-project/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/AbdullahSlimani/Test-project/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
