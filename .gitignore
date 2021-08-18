@@ -334,3 +334,7 @@ ASALocalRun/
 # Dotnet sdk files
 dotnet-sdk-5.0.400-linux-x64.tar.gz
 dotnet/
+
+# scripts
+dtbuild
+dtrun
