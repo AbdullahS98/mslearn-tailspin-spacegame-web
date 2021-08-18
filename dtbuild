@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./dotnet/dotnet build --configuration Release
+
